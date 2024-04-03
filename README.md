@@ -1,10 +1,10 @@
 # Admin Dashboard Repository
 
-[![GitHub license](https://img.shields.io/github/license/username/repo-name)](https://github.com/username/repo-name/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/username/repo-name)](https://github.com/username/repo-name/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/username/repo-name)](https://github.com/username/repo-name/issues)
-[![GitHub forks](https://img.shields.io/github/forks/username/repo-name)](https://github.com/username/repo-name/network)
-[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fusername%2Frepo-name)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Figniteking%2Fnext-dashboard)
+[![GitHub license](https://img.shields.io/github/license/igniteking/next-dashboard)](https://github.com/igniteking/next-dashboard/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/igniteking/next-dashboard)](https://github.com/igniteking/next-dashboard/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/igniteking/next-dashboard)](https://github.com/igniteking/next-dashboard/issues)
+[![GitHub forks](https://img.shields.io/github/forks/igniteking/next-dashboard)](https://github.com/igniteking/next-dashboard/network)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Figniteking%2Fnext-dashboard)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Figniteking%2Fnext-dashboard)
 
 ## Overview
 Welcome to the Admin Dashboard repository! This project provides a comprehensive solution for efficiently managing your application's backend operations. With an intuitive and visually appealing interface, administrators can effortlessly monitor, analyze, and control various aspects of their system.
