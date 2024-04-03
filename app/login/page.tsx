@@ -34,7 +34,7 @@ function Login() {
 
     if (response.success == true) {
       formRef.current?.reset();
-      toast("Login Successfull! Redirecting...", {
+      toast("Login Successfull ...", {
         description: dateTime(),
       });
       localStorage.setItem("Token", response.user.token);

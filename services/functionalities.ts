@@ -3,7 +3,7 @@ export default function dateTime() {
 
   const date = new Date(timestamp); // Create a new Date object using the timestamp
 
-  const options = {
+  const options: Intl.DateTimeFormatOptions = {
     weekday: "long",
     year: "numeric",
     month: "long",
